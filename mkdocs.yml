@@ -1,0 +1,29 @@
+site_name: CIAM Architecture Course
+site_description: End-to-end CIAM architecture, patterns, and real-world migrations
+site_author: Gaz
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Introduction: 01-introduction.md
+  - CIAM Fundamentals: 02-ciam-fundamentals.md
+  - Reference Architecture: 03-architecture-reference.md
+  - Authentication: 04-authentication.md
+  - Authorization: 05-authorization.md
+  - Identity Lifecycle: 06-identity-lifecycle.md
+  - Security & Fraud: 07-security-fraud.md
+  - Migration Strategies: 08-migration-strategies.md
+  - Case Studies: 09-case-studies.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
