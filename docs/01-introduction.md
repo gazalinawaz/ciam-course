@@ -42,6 +42,9 @@ Unlike traditional IAM (which focuses on employees), CIAM is designed for **scal
 * **Scalability & performance**
 
 > In modern digital ecosystems, **CIAM is not just a security platform—it is a revenue and trust platform**.
+>
+> <img width="1751" height="1040" alt="image" src="https://github.com/user-attachments/assets/887559b0-7361-424f-99d7-475d1c76c3d4" />
+
 
 ---
 
